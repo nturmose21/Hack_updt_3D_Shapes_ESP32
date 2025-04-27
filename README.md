@@ -5,7 +5,7 @@ This project uses an **ESP32** board, an **MPU6050 accelerometer/gyro sensor**, 
 
 ## Features
 
-- **Rotating 3D Shapes**: A cube or pyramid that rotates based on the device's tilt.
+- **Rotating 3D Shapes**: A cube or pyramid that rotates .
 - **Real-time Data**: Shows the x, y, and z values from the MPU6050 sensor.
 - **Interactive Button**: Press a button to switch between a cube and pyramid.
 - **Graphical Display**: Shows a plot of the accelerometer data on the OLED screen.
